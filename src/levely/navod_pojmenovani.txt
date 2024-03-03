@@ -1,0 +1,17 @@
+ff - úplně dopředu
+fl - dopředu k/od levé křižovatce
+fr - dopředu k/od pravé křižovatce
+rr - rotace doprava
+rl - rotace doleva
+frc - dopředu k nárazu u pravé křižovatky
+flc - dopředu k nárazu u levé křižovatky
+fo - mezi otočkami
+
+ffb - úplně zpět
+flb - dozadu k/od levé křižovatce
+frb - dozadu k/od pravé křižovatce
+frcb - dozadu od nárazu u pravé křižovatky
+flcb - dozadu od nárazu u levé křižovatky
+fob - mezi otočkami zpět
+
+dpv.py end.py ff.py ffb.py fl.py flb.py flc.py flcb.py fr.py frb.py frc.py frcb.py hpk.py rl.py rr.py
