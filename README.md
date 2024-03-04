@@ -1,4 +1,4 @@
-# rpi_intersection2
+# Seminární práce Dvořák 2023
 Tato práce je zaměřena na vytvoření vlastního fyzického 3D modelu v podobě simulátoru křižovatky ovládané jednodeskovými počítači a mikrokontrolery Raspberry Pi, které jsou propojeny pomocí SSH protokolu, a dalšími kompatibilními komponenty. Další nedílnou součástí tohoto simulátoru je Python aplikace, která slouží a je programována jako přehledný ovládací panel na sedmipalcovém multikapacitním displeji. Jejím hlavním účelem je možnost procvičování řady otázek týkajících se pravidel silničního provozu na křižovatkách.
 
 
